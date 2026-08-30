@@ -29,7 +29,7 @@
     "font-awesome": "^4.7.0",
     "icheck": "^1.0.2",
     "ionicons": "^3.0.0",
-    "jquery": "^3.2",
+    "jquery": "^3.5.0",
     "laravel-mix": "^2.0",
     "lodash": "^4.17.12",
     "vue": "*"
@@ -51,6 +51,7 @@
     "stringstream": "^0.0.6",
     "mem": "^4.0.0",
     "serialize-javascript": "^2.1.1",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.3",
+    "elliptic": "^6.5.3"
   }
 }
