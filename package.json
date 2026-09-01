@@ -52,6 +52,10 @@
     "mem": "^4.0.0",
     "serialize-javascript": "^2.1.1",
     "minimist": "^1.2.3",
-    "elliptic": "^6.5.3"
+    "elliptic": "^6.5.3",
+    "lodash.mergewith": "^4.6.2",
+    "http-proxy": "^1.18.1",
+    "yargs-parser": "^5.0.1",
+    "decompress": "^4.2.1"
   }
 }
