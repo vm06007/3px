@@ -16,7 +16,7 @@
         "hesto/multi-auth": "^2.0",
         "jrean/laravel-user-verification": "dev-master",
         "kesar/ethereum-php": "dev-master",
-        "laravel/framework": "5.7.*",
+        "laravel/framework": "^6.20.44",
         "laravel/passport": "^7.2",
         "laravel/socialite": "^3.0",
         "laravel/tinker": "^1.0",
@@ -25,7 +25,11 @@
         "paypal/rest-api-sdk-php": "^1.13",
         "phpgangsta/googleauthenticator": "dev-master",
         "pragmarx/google2fa-laravel": "^0.2.0",
-        "twilio/sdk": "^5.24"
+        "twilio/sdk": "^5.24",
+        "symfony/http-foundation": "^4.2.7",
+        "league/flysystem": "^1.1.4",
+        "firebase/php-jwt": "^6.0.0",
+        "twig/twig": "^3.26.0"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
