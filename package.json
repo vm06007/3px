@@ -51,7 +51,21 @@
     "stringstream": "^0.0.6",
     "mem": "^4.0.0",
     "serialize-javascript": "^2.1.1",
-    "minimist": "^1.2.3",
-    "elliptic": "^6.5.3"
+    "minimist": "^1.2.6",
+    "elliptic": "^6.6.1",
+    "decompress": "^4.2.1",
+    "url-parse": "^1.5.8",
+    "eventsource": "^1.1.1",
+    "loader-utils": "^1.4.1",
+    "atob": "^2.1.0",
+    "json-schema": "^0.4.0",
+    "fsevents": "^1.2.11",
+    "pbkdf2": "^3.1.6",
+    "form-data": "^2.5.6",
+    "sha.js": "^2.4.12",
+    "cipher-base": "^1.0.7",
+    "shell-quote": "^1.8.4",
+    "websocket-driver": "^0.7.5",
+    "deep-extend": "^0.5.1"
   }
 }
