@@ -16,7 +16,7 @@
         "hesto/multi-auth": "^2.0",
         "jrean/laravel-user-verification": "dev-master",
         "kesar/ethereum-php": "dev-master",
-        "laravel/framework": "^6.20.44",
+        "laravel/framework": "^6.20.45",
         "laravel/passport": "^7.2",
         "laravel/socialite": "^3.0",
         "laravel/tinker": "^1.0",
@@ -26,7 +26,7 @@
         "phpgangsta/googleauthenticator": "dev-master",
         "pragmarx/google2fa-laravel": "^0.2.0",
         "twilio/sdk": "^5.24",
-        "symfony/http-foundation": "^4.2.7",
+        "symfony/http-foundation": "^5.4.50",
         "symfony/http-kernel": "^4.2.12",
         "league/flysystem": "^1.1.4",
         "firebase/php-jwt": "^6.0.0",
@@ -35,7 +35,7 @@
         "nesbot/carbon": "^2.72.6",
         "symfony/process": "^5.4.51",
         "psy/psysh": "^0.11.23",
-        "phpseclib/phpseclib": "^2.0.31",
+        "phpseclib/phpseclib": "^2.0.52",
         "erusev/parsedown": "^1.7.2"
     },
     "require-dev": {
@@ -44,7 +44,7 @@
         "laravel/dusk": "^3.0",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^2.0",
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^8.5.52"
     },
     "autoload": {
         "classmap": [
