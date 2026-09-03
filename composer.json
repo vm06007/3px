@@ -1,7 +1,10 @@
 {
     "name": "laravel/laravel",
     "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
     "license": "MIT",
     "type": "project",
     "require": {
@@ -40,7 +43,9 @@
         "phpseclib/phpseclib": "^2.0.55",
         "erusev/parsedown": "^1.7.2",
         "symfony/validator": "^5.4.43",
-        "symfony/yaml": "^5.4.52"
+        "symfony/yaml": "^5.4.52",
+        "zendframework/zend-cache": "^2.5.3",
+        "phpunit/phpunit": "^8.5.52"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
@@ -66,8 +71,7 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": [
-            ]
+            "dont-discover": []
         }
     },
     "scripts": {
