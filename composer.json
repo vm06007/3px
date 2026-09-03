@@ -27,7 +27,7 @@
         "pragmarx/google2fa-laravel": "^0.2.0",
         "twilio/sdk": "^5.24",
         "symfony/http-foundation": "^5.4.50",
-        "symfony/http-kernel": "^4.2.12",
+        "symfony/http-kernel": "^4.4.50",
         "league/flysystem": "^1.1.4",
         "firebase/php-jwt": "^6.0.0",
         "twig/twig": "^3.27.0",
