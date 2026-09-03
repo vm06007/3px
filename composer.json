@@ -12,11 +12,11 @@
         "fideloper/proxy": "^4.0",
         "google/recaptcha": "~1.1",
         "greggilbert/recaptcha": "^2.2",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.15.2",
         "hesto/multi-auth": "^2.0",
         "jrean/laravel-user-verification": "dev-master",
         "kesar/ethereum-php": "dev-master",
-        "laravel/framework": "^6.20.44",
+        "laravel/framework": "^12.60.0",
         "laravel/passport": "^7.2",
         "laravel/socialite": "^3.0",
         "laravel/tinker": "^1.0",
@@ -29,7 +29,8 @@
         "symfony/http-foundation": "^4.2.7",
         "league/flysystem": "^1.1.4",
         "firebase/php-jwt": "^6.0.0",
-        "twig/twig": "^3.26.0"
+        "twig/twig": "^3.27.0",
+        "phpseclib/phpseclib": "^2.0.54"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
